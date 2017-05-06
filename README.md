@@ -1,6 +1,6 @@
 # kiss-learn-js
 
-> kiss learn js
+> こどもがプログラミング勉強のためのプロジェクトです。ベースは `vue-cli`。
 
 ## Build Setup
 
@@ -27,4 +27,25 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## こどものスペック （2017/5/1）
+- 小学校2年生の男女双子
+- ローマ字はまだろくに読めない
+- 日本語入力もできない
+- 2桁の足し算、引き算は可
+- 九九はできるがときどき間違える
+
+## 初期の目的
+- 変数、配列を理解してもらう
+- 関数を理解してもらう
+- 父がタイプして説明する
+- いっしょに
+- 私（父親 = リポジトリオーナー）がタイプして説明する
+- いっしょにミニゲームを考えて、私が実装する
+- なんとなく雰囲気を感じてもらえばいい
+- ブログラミングが何ができるか見てもらえればいい
+
+## 将来的な目標
+- 1年後に自分で改変できること
+- 3年後にプルリクを送ること
+
+
